@@ -29,7 +29,7 @@ pip3 install --upgrade qobuz-dl
 ```
 ##### Windows
 ```
-pip3 install windows-curses
+pip3 install windows_curses-2.2.0-cp39-cp39-win_amd64.whl
 pip3 install --upgrade qobuz-dl
 ```
 #### Run qobuz-dl and enter your credentials
